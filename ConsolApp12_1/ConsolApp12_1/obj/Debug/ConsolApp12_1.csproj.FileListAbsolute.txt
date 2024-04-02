@@ -1,0 +1,7 @@
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\bin\Debug\ConsolApp12_1.exe.config
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\bin\Debug\ConsolApp12_1.exe
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\bin\Debug\ConsolApp12_1.pdb
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\obj\Debug\ConsolApp12_1.csproj.AssemblyReference.cache
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\obj\Debug\ConsolApp12_1.csproj.CoreCompileInputs.cache
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\obj\Debug\ConsolApp12_1.exe
+C:\Users\katyl\source\repos\ConsolApp12_1\ConsolApp12_1\obj\Debug\ConsolApp12_1.pdb
